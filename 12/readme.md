@@ -19,8 +19,8 @@ A system for classifying groups of images. Based on training data. In the output
 
 | data | type |
 | ------ | ------ |
-| INPUT | sample photos |
-| OUTPUT | images grouped |
+| INPUT | 	add a photo |
+| OUTPUT | displays the group in which the photo is located |
 
 ## Main functionalities
 
