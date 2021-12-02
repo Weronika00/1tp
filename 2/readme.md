@@ -19,7 +19,7 @@ The program is to have the current gps data of the device. When you enter the de
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | message about current location |
 
 ## Main functionalities
 
