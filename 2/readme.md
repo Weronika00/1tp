@@ -1,8 +1,4 @@
-@@ -1 +1,91 @@
-test
-@@ -1 +1,90 @@
-test
-test# museum collection registration system
+
 
 ## _contractor: Bartosz Brandt
 ## _principal: Michał Czerwiński_
