@@ -8,6 +8,8 @@
 | ------ | ------ | ------ |
 | I just started! | 01.12.2021 | I dunno what I am supposed to do! |
 | Early Alpha v0.6.9 | 06.12.2021 | Added sprites, and 2 ERDs. Updated readme.md |
+| Early Alpha v0.7.0 | 06.12.2021 | added ORGChart to sprites. |
+
 
 
 ## Abstract 
@@ -71,10 +73,10 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/1tp/5/sprites/erd.png>
+ [erd]: <https://github.com/Michal3456/1tp/blob/main/5/sprites/erd.png>
   The rest here is unchanged.
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/Michal3456/1tp/blob/main/5/sprites/org.png>
  
  [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
  
