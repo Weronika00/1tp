@@ -1,4 +1,4 @@
-# CKZiU room Photo Booth
+# Photo Booth
 
 ## _contractor: Weronika Kulka_
 ## _principal: Michał Czerwiński_
