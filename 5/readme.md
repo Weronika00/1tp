@@ -18,11 +18,11 @@ The project is made to recognize face movement and mimics.
 | data | type |
 | ------ | ------ |
 | INPUT | Camera checking |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | The face movement that was recognized |
 
 ## Main functionalities
 
-1. Using the camera to find face movement (This is done without taking data - It's only local to a said device).
+1. Using the camera and artificial intelligence to find & register face movement (This is done without taking data - It's only local to a said device).
 1. Working without fail (So no need for calibration is needed).
 
 The above functionalities were tested and are working according to their roles.
