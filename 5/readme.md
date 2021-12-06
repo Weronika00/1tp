@@ -7,10 +7,11 @@
 | dossier version | date | description |
 | ------ | ------ | ------ |
 | I just started! | 01.12.2021 | I dunno what I am supposed to do! |
+| Early Alpha v0.6.9 | 06.12.2021 | Added sprites, and 2 ERDs. Updated readme.md |
 
 
 ## Abstract 
-The project is based on... Whatever the hell I was supposed to do.
+The project is made to help people in developing a healthier lifestyle.
 
 ## Data structure
 
@@ -21,9 +22,8 @@ The project is based on... Whatever the hell I was supposed to do.
 
 ## Main functionalities
 
-1. Be impolite
-1. Be inefficient
-1. Have a plan to spare anyone it meets
+1. When using the machine that the code uses, send the data to the server
+1. After being examined by bots in the server, send back data with helps improve on health
 
 The above functionalities were tested and are working according to their roles.
 
@@ -46,18 +46,14 @@ A subsection that presents a detailed description of the individual functionalit
 
 ### Relational database based on SQL language
 
-### Frot-end created in JavaScript and CSS technologies
+### Front-end (GUI) created in C#, Compiled for use on the ARM64 Architecture
 
-### Back-end executed in PHP language and auxiliary scripts
+### Back-end executed also in C#, which sends back data over the internet 
 
 ## Technologies, programming languages and others
 
-- [PHP]
-- [JS]
-- [CSS/HTML]
+- [C#]
 - [SQL]
-- [MySql/MariaDb]
-- [Apache]
 
 ## Layout for form in HTML
 
@@ -75,7 +71,8 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [erd]: <https://github.com/Michal3456/1tp/5/sprites/erd.png>
+  The rest here is unchanged.
  
  [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
  
