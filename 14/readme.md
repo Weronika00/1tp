@@ -9,7 +9,7 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 2.12.2021 | adding ERD |
-
+| 1.2 | 06.12.2021 | adding organizational structure |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -81,7 +81,7 @@ A subsection that presents a detailed description of the individual functionalit
 
  [erd]: <https://github.com/Michal3456/1tp/blob/main/14/sprites/drawio.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/Michal3456/1tp/blob/main/14/sprites/Untitled%20Diagram.drawio.png>
  
  [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
  
