@@ -80,7 +80,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [osd]: <https://github.com/Michal3456/1tp/blob/main/7/sprites/Untitled%20Diagram.drawio(1).png>
  
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+ [form]: <https://github.com/Michal3456/1tp/blob/main/7/sprites/Untitled%20Diagram.drawio(2).png>
  
  [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
  
