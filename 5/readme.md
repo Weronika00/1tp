@@ -1,4 +1,4 @@
-# Fact recognition system
+# Face movement & recognition system
 
 ## _contractor: Aleksander Filipkowski_
 ## _principal: Michał Czerwiński_
