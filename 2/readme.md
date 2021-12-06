@@ -75,7 +75,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [erd]: https://github.com/Michal3456/1tp/blob/main/2/sprites/erd.png
 
  [osd]: https://github.com/Michal3456/1tp/blob/main/2/sprites/fsa.drawio.png
 
