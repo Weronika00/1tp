@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# Fact recognition system
 
 ## _contractor: Aleksander Filipkowski_
 ## _principal: Michał Czerwiński_
@@ -6,26 +6,24 @@
 
 | dossier version | date | description |
 | ------ | ------ | ------ |
-| I just started! | 01.12.2021 | I dunno what I am supposed to do! |
-| Early Alpha v0.6.9 | 06.12.2021 | Added sprites, and 2 ERDs. Updated readme.md |
-| Early Alpha v0.7.0 | 06.12.2021 | added ORGChart to sprites. |
-
+| Rework v0.0.1 | 06.12.2021 | Beginning rework, after I realized I did the wrong thing. |
+This version of the project currently has the ERDs and ORGs of the older version. Functionality of what I was actually supposed to do will be redone.
 
 
 ## Abstract 
-The project is made to help people in developing a healthier lifestyle.
+The project is made to recognize face movement and mimics.
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
-| INPUT | data form |
+| INPUT | Camera checking |
 | OUTPUT | room reservation message and database entry |
 
 ## Main functionalities
 
-1. When using the machine that the code uses, send the data to the server
-1. After being examined by bots in the server, send back data with helps improve on health
+1. Using the camera to find face movement (This is done without taking data - It's only local to a said device).
+1. Working without fail (So no need for calibration is needed).
 
 The above functionalities were tested and are working according to their roles.
 
@@ -36,11 +34,11 @@ The above functionalities were tested and are working according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram ERD in jpg][erd]
+[link to diagram ERD in png][erd]
 
 ## Organizational structure diagram
 
-[link to diagram OSD in jpg][osd]
+[link to diagram OSD in png][osd]
 
 ## Cpecific functionalities
 
@@ -56,6 +54,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 - [C#]
 - [SQL]
+- [ARM64 Assembly (If required)]
 
 ## Layout for form in HTML
 
