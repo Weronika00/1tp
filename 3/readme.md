@@ -7,6 +7,8 @@
 | dossier version | date | description |
 | ------ | ------ | ------ |
 | 1.0 | 01.12.2021 | none |
+| 1.1 | 2.12.2021 | adding ERD |
+| 1.2 | 06.12.2021 | adding organizational structure |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
