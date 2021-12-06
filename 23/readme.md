@@ -75,7 +75,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [erd]: <https://github.com/Michal3456/1tp/blob/main/23/sprites/unknown%20(8).png>
 
  [osd]: <https://github.com/Michal3456/1tp/tree/main/23/sprites>
 
