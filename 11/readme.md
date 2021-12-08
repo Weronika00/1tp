@@ -86,7 +86,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [form]: <https://github.com/Weronika00/1tp/blob/main/11/sprites/photobooth.jpg>
  
- [db]: <https://github.com/Weronika00/1tp/blob/main/11/sprites/sketch.jpg>
+ [db]: <https://github.com/Weronika00/1tp/blob/main/11/sprites/sketcch.jpg>
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  
